@@ -18,7 +18,7 @@ Relatório gerado no Lighthouse (modo Mobile).
 - Código JavaScript duplicado
 - Uso de onclick inline
 
-Arquivo: `relatorio-antes.pdf`
+Arquivo: `lighthouseantes.pdf`
 
 ---
 
@@ -39,7 +39,7 @@ Novo relatório gerado após as melhorias.
 **Resultado final:**
 - Performance: 100
 
-Arquivo: `relatorio-depois.pdf`
+Arquivo: `lighthousedepois.pdf`
 
 ---
 
